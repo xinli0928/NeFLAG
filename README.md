@@ -6,12 +6,12 @@ Results
 ----
 Qualitative Evaluation
 
-<p><img src="example_figures.pdf" alt="test" width="850"></p>
+<p><img src="Example_Figures.png" alt="test" width="850"></p>
 <p><img src="Diff_game.png" alt="test" width="850"></p>
 
-Quantitative evaluation
+Quantitative Evaluation
 
-citiation
+Citiation
 ----
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 
