@@ -7,9 +7,8 @@ Results
 Qualitative Evaluation
 
 <p><img src="Example_Figures.png" alt="test" width="850"></p>
-<p><img src="Diff_game.png" alt="test" width="850"></p>
-
 Quantitative Evaluation
+<p><img src="Diff_game.png" alt="test" width="850"></p>
 
 Citiation
 ----
